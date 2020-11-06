@@ -1,5 +1,3 @@
-
-
 <?php 
    //include 'database.docx';
    $login = 'php';
